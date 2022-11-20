@@ -21,13 +21,9 @@
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
       -->
-      <a href="https://twitter.com/tiago__marques">
+      <a href="https://twitter.com/BennyMarcal9">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-</div>
-
-<div id="views" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Tiagura&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### :man_technologist: About Me :
@@ -35,16 +31,12 @@
 - I have a degree in Computer Engineering and Informatics at Universidade de Aveiro.
 - I'm interested in networks, backend and also in hardware.
 - I like challenges, it forces me to think creatively.
-<!-- - I've worked on circuit modeling during my bachelor's and master's degrees, using quartus.
-- I've worked with microcontrollers, some using C and others assembly.
-- I have already set up networks, for the projects of my curricular units in the area of networks.
-- I already programmed concurrent and real-time programs.
 -->
 
 ### :fire: My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagura&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BennyMarcal&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagura&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BennyMarcal&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
